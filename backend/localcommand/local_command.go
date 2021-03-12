@@ -7,7 +7,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/creak/pty"
+	"github.com/creack/pty"
 	"github.com/pkg/errors"
 )
 
